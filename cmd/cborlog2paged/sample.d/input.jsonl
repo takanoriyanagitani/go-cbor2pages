@@ -1,0 +1,5 @@
+{"hw": "hh", "i": 634,  "f": 42.195, "b": true,  "B": false}
+{"hw": "HH", "i": 333,  "f":  3.776, "b": false, "B": true}
+{"hw": "",   "i":   0,  "f":  0.0,   "b": false, "B": false}
+{"hw": null, "i": null, "f":  null,  "b": null,  "B": null}
+{"hw": "HH", "i": 333,  "f":  3.776, "b": false, "B": true}
